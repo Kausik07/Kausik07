@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kausik07
 - 👀 I’m interested in Web Devlopment and DevOps
-- 🌱 I’m currently learning Google Cloud
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
