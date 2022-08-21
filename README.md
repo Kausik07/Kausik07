@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment and DevOps
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kausikpattanaik2002@gmail.com
 
 <!---
 Kausik07/Kausik07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
