@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Express API](https://github.com/Kausik07/express-api)
 
-- 🌱 I’m currently learning **Cyber security and Google Cloud Fundamentals**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Node.js based projects**
 
