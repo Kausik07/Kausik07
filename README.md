@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kausik07](https://github.com/Kausik07)
 
-- 💬 Ask me about **CPP, DSA,Google Cloud Platform**
+- 💬 Ask me about **CPP,Google Cloud Platform**
 
 - 📫 How to reach me **kausikpattanaik2002@gmail.com**
 
