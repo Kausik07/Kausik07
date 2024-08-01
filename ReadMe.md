@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Pipeline Project<br>🌱 I’m currently learning Machine Learning with TensorFlow<br><br>👯 I’m looking to collaborate on Data Engineering and Machine Learning projects<br><br>🤝 I’m looking for help with AWS and GCP<br><br>👨‍💻 All of my projects are available at https://github.com/Kausik07<br><br>💬 Ask me about Python, SQL, Data Analysis, and Cloud Technologies<br><br>📫 How to reach me kausikpattanaik2002@gmail.com<br><br>⚡ Fun fact I love visualizing data with Power BI and Tableau
+🔭 I’m currently working on Data Pipeline Project<br><br>🌱 I’m currently learning Machine Learning with TensorFlow<br><br>👯 I’m looking to collaborate on Data Engineering and Machine Learning projects<br><br>🤝 I’m looking for help with AWS and GCP<br><br>👨‍💻 All of my projects are available at https://github.com/Kausik07<br><br>💬 Ask me about Python, SQL, Data Analysis, and Cloud Technologies<br><br>📫 How to reach me kausikpattanaik2002@gmail.com<br><br>⚡ Fun fact I love visualizing data with Power BI and Tableau
 
 
 ## 🌐 Socials:
